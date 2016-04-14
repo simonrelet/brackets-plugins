@@ -1,0 +1,22 @@
+{
+  "extensions": {
+    "brackets-beautify": true,
+    "brackets-css-color-preview": true,
+    "zaggino.brackets-git": true,
+    "ivogabe.icons": true,
+    "hirse.outline-list": true,
+    "brackets-ruler": true,
+    "simonrelet.corewar": true,
+    "brackets-emmet": true,
+    "gruehle.exclude-folders": true,
+    "milosh86.extensions-bulk-installer": false,
+    "funcdocr": true,
+    "brackets-indent-guides": true,
+    "jade": true,
+    "camden.jshint": true,
+    "gruehle.markdown-preview": true,
+    "brackets-special-html-chars": true,
+    "pflynn.svg.preview": true,
+    "camden.w3cvalidation": true
+  }
+}
